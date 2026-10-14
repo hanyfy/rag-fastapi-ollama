@@ -1,0 +1,26 @@
+{
+  "Comment limiter les hallucinations d'un système RAG ?": [
+    {
+      "ref": "rag_principes.md#2",
+      "score": 0.176,
+      "text": "Pour limiter les hallucinations, le prompt demande de répondre uniquement à partir du contexte fourni, de citer les sources et d'indiquer explicitement quand l'…"
+    },
+    {
+      "ref": "rag_principes.md#3",
+      "score": 0.156,
+      "text": "L'évaluation d'un système RAG se fait en deux temps. On mesure d'abord la recherche, par exemple la proportion de questions pour lesquelles le bon document figu…"
+    }
+  ],
+  "Que faire si une clé d'API a été commitée ?": [
+    {
+      "ref": "architecture_api.md#0",
+      "score": 0.147,
+      "text": "# Exposer un modèle ou un pipeline via une API…"
+    },
+    {
+      "ref": "qualite_donnees.md#3",
+      "score": 0.095,
+      "text": "Une bonne pratique consiste à écrire les contrôles comme du code versionné et testé, à les exécuter à chaque chargement, et à faire échouer le pipeline lorsque …"
+    }
+  ]
+}
