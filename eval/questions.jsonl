@@ -1,0 +1,14 @@
+{"q": "Quelles sont les dimensions de la qualité des données ?", "source": "qualite_donnees.md"}
+{"q": "Pourquoi la régression logistique est-elle utilisée pour le scoring ?", "source": "scoring_credit.md"}
+{"q": "Qu'est-ce que le data leakage ?", "source": "scoring_credit.md"}
+{"q": "Comment limiter les hallucinations d'un système RAG ?", "source": "rag_principes.md"}
+{"q": "Comment évaluer la recherche dans un RAG ?", "source": "rag_principes.md"}
+{"q": "Que doit-on faire si une clé d'API a été commitée par erreur ?", "source": "confidentialite.md"}
+{"q": "Quelle différence entre NaN et null dans Spark ?", "source": "spark_airflow.md"}
+{"q": "Pourquoi une tâche Airflow doit-elle être idempotente ?", "source": "spark_airflow.md"}
+{"q": "Comment tester une API FastAPI qui dépend d'un service externe ?", "source": "architecture_api.md"}
+{"q": "Quel est l'intérêt d'un endpoint health ?", "source": "architecture_api.md"}
+{"q": "Quelles données utiliser dans un environnement de démonstration ?", "source": "confidentialite.md"}
+{"q": "Que mesure l'indice PSI ?", "source": "scoring_credit.md"}
+{"q": "Une date d'échéance antérieure à l'émission relève de quelle dimension ?", "source": "qualite_donnees.md"}
+{"q": "Quel est le compromis sur la taille des chunks ?", "source": "rag_principes.md"}
